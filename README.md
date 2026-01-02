@@ -1,12 +1,10 @@
-# AWS Security Group Inventory – Multi-Account & Multi-Region Audit
-
 <div align="center">
   
 ![AWS Security Groups](https://img.icons8.com/color/96/amazon-web-services.png)
 
-## Complete Security Group Audit Across AWS Organizations
+## AWS Security Group Inventory – Multi-Account & Multi-Region Audit
 
-**Updated: December 2, 2025**
+**Updated: January 2, 2025**
 
 [![Follow @nicoleepaixao](https://img.shields.io/github/followers/nicoleepaixao?label=Follow&style=social)](https://github.com/nicoleepaixao)
 [![Star this repo](https://img.shields.io/github/stars/nicoleepaixao/aws-sg-inventory?style=social)](https://github.com/nicoleepaixao/aws-sg-inventory)
@@ -393,6 +391,6 @@ This tool performs read-only operations and does not modify any AWS resources. S
 
 **Happy securing your AWS infrastructure!**
 
-*Document last updated: December 2, 2025*
+*Document last updated: January 2, 2025*
 
 </div>
