@@ -2,21 +2,28 @@
   
 ![AWS Security Groups](https://img.icons8.com/color/96/amazon-web-services.png)
 
-## AWS Security Group Inventory – Multi-Account & Multi-Region Audit
+# AWS Security Group Inventory – Multi-Account & Multi-Region Audit
 
-**Updated: January 2, 2025**
+**Updated: January 14, 2026**
 
 [![Follow @nicoleepaixao](https://img.shields.io/github/followers/nicoleepaixao?label=Follow&style=social)](https://github.com/nicoleepaixao)
 [![Star this repo](https://img.shields.io/github/stars/nicoleepaixao/aws-sg-inventory?style=social)](https://github.com/nicoleepaixao/aws-sg-inventory)
+[![Medium Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nicoleepaixao.medium.com/)
+
+<p align="center">
+  <a href="README-PT.md">🇧🇷</a>
+  <a href="README.md">🇺🇸</a>
+</p>
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="img/aws-security-group-inventory.png" alt="sg inventory Architecture" width="1200">
+  <img src="img/aws-security-group-inventory.png" alt="sg inventory Architecture" width="1800">
 </p>
 
+---
 
 ## **Overview**
 
@@ -49,21 +56,11 @@ In distributed AWS environments with multiple accounts, it's common to find Secu
 
 ### **Solution Benefits**
 
-- **Organizational Governance**: Implement security at organization level
-- **Attack Surface Reduction**: Identify and remove risky configurations
-- **Rapid Risk Assessment**: Quickly identify security exposures
-- **Evidence-Based Remediation**: Create plans backed by data
-- **Audit Support**: Support compliance, FinOps, and SRE processes
-
----
-
-## **Architecture**
-
-### **Inventory Process Flow**
-
-<p align="center">
-  <img src="img/aws-security-group-inventory.png" alt="sg inventory Architecture" width="800">
-</p>
+✅ **Organizational Governance**: Implement security at organization level  
+✅ **Attack Surface Reduction**: Identify and remove risky configurations  
+✅ **Rapid Risk Assessment**: Quickly identify security exposures  
+✅ **Evidence-Based Remediation**: Create plans backed by data  
+✅ **Audit Support**: Support compliance, FinOps, and SRE processes
 
 ---
 
@@ -353,20 +350,6 @@ For more details about AWS Security Groups, VPC security, and best practices, re
 
 ---
 
-## **Future Enhancements**
-
-| **Feature** | **Description** | **Status** |
-|-------------|-----------------|------------|
-| CSV Export | Additional export format option | Planned |
-| Dashboard Integration | PowerBI/Grafana visualization | In Development |
-| Protocol Validation | Check RDP, HTTPS, database ports | Planned |
-| Auto-Remediation | Suggest fixes with Terraform/CLI | Future |
-| Duplicate Detection | Find redundant Security Groups | Planned |
-| Security Hub Integration | Feed findings to AWS Security Hub | Future |
-| IAM Access Analyzer | Cross-reference with IAM permissions | Future |
-
----
-
 ## **Connect & Follow**
 
 Stay updated with AWS security automation and best practices:
@@ -389,8 +372,10 @@ This tool performs read-only operations and does not modify any AWS resources. S
 
 <div align="center">
 
-**Happy securing your AWS infrastructure!**
+**Secure your AWS infrastructure with confidence!**
 
-*Document last updated: January 2, 2025*
+*Document Created: January 2, 2026*
+
+Made with ❤️ by [Nicole Paixão](https://github.com/nicoleepaixao)
 
 </div>
