@@ -4,7 +4,7 @@
 
 # AWS Security Group Inventory – Auditoria Multi-Conta e Multi-Região
 
-**Atualizado: 2 de Janeiro de 2025**
+**Atualizado: 14 de Janeiro de 2026**
 
 [![Follow @nicoleepaixao](https://img.shields.io/github/followers/nicoleepaixao?label=Follow&style=social)](https://github.com/nicoleepaixao)
 [![Star this repo](https://img.shields.io/github/stars/nicoleepaixao/aws-sg-inventory?style=social)](https://github.com/nicoleepaixao/aws-sg-inventory)
@@ -374,7 +374,7 @@ Esta ferramenta realiza operações somente-leitura e não modifica nenhum recur
 
 **Proteja sua infraestrutura AWS com segurança!**
 
-*Documento atualizado em: 2 de Janeiro de 2025*
+*Documento Criado em: 2 de Janeiro de 2026*
 
 Made with ❤️ by [Nicole Paixão](https://github.com/nicoleepaixao)
 
