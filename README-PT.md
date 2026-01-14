@@ -8,7 +8,7 @@
 
 [![Follow @nicoleepaixao](https://img.shields.io/github/followers/nicoleepaixao?label=Follow&style=social)](https://github.com/nicoleepaixao)
 [![Star this repo](https://img.shields.io/github/stars/nicoleepaixao/aws-sg-inventory?style=social)](https://github.com/nicoleepaixao/aws-sg-inventory)
-[![Medium Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nicoleepaixao.medium.com/enforcing-region-based-governance-in-aws-with-scps-8b37e434805b)
+[![Medium Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nicoleepaixao.medium.com/)
 
 <p align="center">
   <a href="README-PT.md">🇧🇷</a>
